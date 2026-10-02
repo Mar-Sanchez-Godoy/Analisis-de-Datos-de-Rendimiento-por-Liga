@@ -6,7 +6,7 @@
 
 ## 📸 Vista Previa del Dashboard
 
-![Visualización del Dashboard](Capturas de pantalla/Visualizacion.png)
+![Visualización del Dashboard](Capturas_de_pantalla/Visualizacion.png)
 
 ## 📊 Descripción del Proyecto
 
